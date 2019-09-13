@@ -1,0 +1,25 @@
+# 파이썬 연습
+
+### 완주하지 못한 선수
+
+```python 
+# 참여 명단과 완주한 선수 명단을 sort하여
+# for loop으로 탐색하여 같은 index에 같은 이름이 아닌 경우 
+# 참여 명단의 선수는 완주하지 못했기 때문에 
+# 해당 index의 선수의 이름을 반환한다.
+
+def solution(p, c):
+    
+    p.sort()
+    c.sort()
+    i=0
+    for i in range(len(p)-1):
+        if p[i]!=c[i]:
+            return p[i]
+        
+    return p[len(p)-1]
+```
+
+
+
+### 
