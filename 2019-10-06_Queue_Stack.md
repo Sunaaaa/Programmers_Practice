@@ -329,7 +329,7 @@
 
   - s.pop()
 
-    ![1570367900546](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\1570367900546.png)
+    ![1570367900546](https://user-images.githubusercontent.com/39547788/66269747-5f620880-e887-11e9-80f7-f6aa25a0cafe.png)
 
     <br>
 
