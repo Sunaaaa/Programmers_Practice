@@ -1,5 +1,9 @@
 ## Queue
 
+![1570367363460](https://user-images.githubusercontent.com/39547788/66256625-c372c700-e7ca-11e9-8fa3-e9e0c99b534b.png)
+
+<br>
+
 - 일반적으로 FIFO (First-In-First-Out)
 - 입력 : put()
 - 출력 : get()
@@ -173,7 +177,9 @@
 
 ## Stack
 
-![1570362023812](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\1570362023812.png)
+![1570362023812](https://user-images.githubusercontent.com/39547788/66269637-b9fa6500-e885-11e9-9b2b-93d1477568cd.png)
+
+<br>
 
 - LIFO (Last-In-First-Out)
 - 저장소의 끝 부분 : top
@@ -301,14 +307,29 @@
   # 6 5 4 3 2 1 
   ```
 
+  <br>
+
   - s = MyNodeStack()
 
-    ![1570366832667](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\1570366832667.png)
+    ![1570366832667](https://user-images.githubusercontent.com/39547788/66269638-b9fa6500-e885-11e9-9f0b-14e5f4286f70.png)
+
+    <br>
 
   - s.push(1)
 
-    ![1570366873520](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\1570366873520.png)
+    ![1570366873520](https://user-images.githubusercontent.com/39547788/66269639-b9fa6500-e885-11e9-8a0e-df7b973316a9.png)
+
+    <br>
 
   - s.push(2)
 
-    ![1570366912454](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\1570366912454.png)
+    ![1570366912454](https://user-images.githubusercontent.com/39547788/66269640-b9fa6500-e885-11e9-8b6d-ca90756467ee.png)
+
+    <br>
+
+  - s.pop()
+
+    ![1570367900546](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\1570367900546.png)
+
+    <br>
+
