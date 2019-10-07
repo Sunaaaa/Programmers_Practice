@@ -23,7 +23,7 @@
 
   - 해당 문자가 없는 경우 에러 발생!!
 
-    ![1570460200562](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\1570460200562.png)
+    ![1570460200562](https://user-images.githubusercontent.com/39547788/66323210-6445bb80-e95e-11e9-8e50-710048ad25ed.png)
 
   - 해결 방법 ==> find() 사용
 
@@ -35,4 +35,3 @@
       ```
 
     
-
